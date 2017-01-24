@@ -1,0 +1,17 @@
+{
+  "name": "undo-redo-ts",
+  "version": "1.0.0",
+  "description": "An undo/redo manager for Typescript",
+  "main": "UndoManager.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "undo/redo",
+    "command",
+    "pattern",
+    "typescript"
+  ],
+  "author": "mpkelly",
+  "license": "MIT"
+}
