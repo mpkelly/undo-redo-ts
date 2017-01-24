@@ -2,7 +2,6 @@ export interface ICommand {
   name?: string;
   undo: () => any;
   redo: () => any;
-  data?: any
 }
 
 export class UndoManager {
